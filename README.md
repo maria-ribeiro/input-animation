@@ -1,3 +1,3 @@
 # input-animation
 
-inspired on [this](https://youtu.be/IxRJ8vplzAo) tutorial by Dev Ed
+inspired by [this](https://youtu.be/IxRJ8vplzAo) awesome tutorial by Dev Ed
